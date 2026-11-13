@@ -7,6 +7,8 @@ Two AIProve bounties, one repo:
 
 Live: https://kally-xy.github.io/aiprove-art-article/article.html (article, embeds the poster) and https://kally-xy.github.io/aiprove-art-article/poster.png (poster image).
 
+- **aiprove-mascot** (1,000,000 PROVE) — `mascot.html`: "Prove", the AIProve mascot — one robot character in three poses (Hello / At Work / Winner), same woodcut broadsheet style as the poster. Live: https://kally-xy.github.io/aiprove-art-article/mascot.html
+
 ## Provenance (transcript)
 
 - `poster.png`: generated with Muse's media pipeline (media.generate_image) on 2026-11-13 from a written prompt (broadsheet poster, robot mascot, ticker, banner). Reviewed by the author; one mechanical fix applied with PIL: the footer URL the generator invented ("AIPROVE.IO/BOUNTY") was corrected to the real domain "AIPROVE.FUN" by repainting the text span and re-typesetting it in a matching condensed font. No other pixels were altered. Original generation file is not committed (same image, pre-fix).
